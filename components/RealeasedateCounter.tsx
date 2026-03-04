@@ -49,7 +49,7 @@ export default function BetaCountdown() {
 
       {timeLeft ? (
         <p className="text-sm md:text-lg lg:text-xl opacity-90 leading-relaxed">
-          Beta will start in:
+          Beta in:
           <span
             className="
               font-mono font-bold tracking-tight ml-2
